@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title</key>
+	<string>iPad Pro 11" (horizontal)</string>
+	<key>device</key>
+	<string>iOS</string>
+	<key>order</key>
+	<integer>1000</integer>
+  <key>tags</key>
+	<string>ipad pro, horizontal</string>
+  <key>imageInfo</key>
+	<array>
+		<dict>
+			<key>dropzone</key>
+			<string>{{0.0378, 0.0539}, {0.9262, 0.8935}}</string>
+			<key>bottomLeft</key>
+			<string>{0, 0}</string>
+			<key>bottomRight</key>
+			<string>{1, 0}</string>
+			<key>topLeft</key>
+			<string>{0, 1}</string>
+			<key>topRight</key>
+			<string>{1, 1}</string>
+			<key>width</key>
+			<integer>2779</integer>
+			<key>height</key>
+			<integer>1941</integer>
+      <key>overlay</key>
+      <string>ipad-pro-11-horizontal-overlay</string>
+		</dict>
+	</array>
+</dict>
+</plist>
